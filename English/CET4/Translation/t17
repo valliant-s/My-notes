@@ -8,19 +8,32 @@ aggriculture and people's daily life. According to it, ancient people noted the 
 grain. A number of Chinese traditional festivals are based on it, including the Spring Festival and Mid-Autumn Festival. The lunar calendar is an integral part of Chinese traditional
 culture, and it is used such at present.
 
-###逐处错误标注
-① which on the fifteen day：从句缺少谓语；fifteen 基数词错误；改为 **which falls on the 15th day**
-② lunar eighth month：语序错误，固定为 **the eighth lunar month**
-③ family numbers：单词拼写错误，members 才是家庭成员，改为 **family members**
-④ featural food：featural 不是英语常用词，地道替换 **special food**
-⑤ 指代歧义：最后一句 it 就近指代 mooncake，原文是**中秋节承载向往**，主语换成 **the festival**
 
-###美化版本
-The Mid-Autumn Festival is an integral traditional festival, which falls on the 15th day of the eighth lunar month. As a symbol of reunion, the moon is round and bright on this day.
-When it comes, family members will get together to appreciate the moon and enjoy mooncakes. The mooncake is a special food of the Mid-Autumn Festival, with various flavors. For 
-thousands of years, the festival carries people's longing for their relatives and embodies Chinese people's wishes for reunion.
+### 1. 逐处标注错误 + 修改
+1. before thousands of years → thousands of years ago（ago 用于过去时间；before 不能这样用）
+2. runing rotine → the movements（拼写错误 running/routine；runing rotine 属于错词，“运行规律” 用 movements）
+3. made by → formulated according to（历法是根据规律制定，不是被日月运行制造）
+4. played an important role on → has played an important role in（时间 For many years，现在完成时；固定搭配 role in）
+5. aggriculture → agriculture（拼写错误）
+6. planed planting → arranged farm work（planed 拼写 planned；planting 表意窄，农活 farm work 贴合原文）
+7. sky → climatic conditions（sky 是天空，原文是气候条件）
+8. for improving → to improve（不定式表目的更合适）
+9. used such at present → is still widely used today（such 多余，such at present 完全错误）
 
-###标准版
-The Mid-Autumn Festival is an important traditional Chinese festival falling on the 15th day of the eighth lunar month. The round and bright moon stands for reunion. During the 
-festival, family members get together to admire the moon and eat mooncakes. Mooncakes, in a wide range of flavors, are the signature food of the festival. For thousands of years, 
-the festival has carried people's longing for their relatives and embodied Chinese people's wishes for reunion.
+###  改正后的你的原文
+The lunar calendar originated in China thousands of years ago, formulated according to the movements of the sun and moon. For many years, the lunar calendar has played an important
+role in agriculture and people's daily life. According to it, ancient people noted the dates and arranged farm work to use natural resources and climatic conditions to improve the 
+production and quality of grain. A number of Chinese traditional festivals are based on it, including the Spring Festival and the Mid-Autumn Festival. The lunar calendar is an 
+integral part of Chinese traditional culture, and it is still widely used today.
+
+###  美化版
+Originating in China thousands of years ago, the lunar calendar was formulated based on the movement of the sun and the moon. It has long played a vital part in agricultural 
+production and people’s daily life. Ancient people recorded dates and arranged farming work following the lunar calendar, so that they could make the best use of natural resources
+and climate to boost crop yield and quality. Traditional Chinese festivals such as the Spring Festival and the Mid-Autumn Festival are all dated according to it. As an essential 
+component of traditional Chinese culture, the lunar calendar remains widely used to this day.
+
+###  标准版
+The lunar calendar originated in China thousands of years ago and was formulated according to the movement rules of the sun and the moon. For a long time, it has played an 
+important role in agricultural production and people’s daily life. Ancient people recorded dates and arranged farm work based on the lunar calendar to make the most of natural 
+resources and climatic conditions and improve the output and quality of crops. Traditional Chinese festivals including the Spring Festival and the Mid-Autumn Festival are set by
+the lunar calendar. The lunar calendar is an important part of traditional Chinese culture and is still widely used nowadays.
